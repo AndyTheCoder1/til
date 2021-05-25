@@ -1,0 +1,5 @@
+In order to destroy a piece of data that would otherwise be left without a parent:
+
+Function:
+
+dependent: :destroy
